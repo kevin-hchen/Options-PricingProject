@@ -1,6 +1,6 @@
 # Monte Carlo Options Pricing Engine
 
-A small, well-commented Python engine for pricing options by Monte Carlo — built to learn how derivatives pricing works. Every result is checked against closed-form Black-Scholes.
+A small, Python engine for pricing options by Monte Carlo. built to learn how derivatives pricing works. Every result is checked against closed-form Black-Scholes.
 
 Pure NumPy + SciPy, no pricing libraries.
 
